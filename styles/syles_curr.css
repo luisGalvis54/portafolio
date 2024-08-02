@@ -1,0 +1,13 @@
+.imagen__gato {
+    width: 800px;
+    height: auto;
+}
+.imagen__face {
+    width: 32px;
+    height: 32px;
+
+}
+
+.logos__redes { 
+    text-decoration: none;
+}
